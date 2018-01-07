@@ -1,8 +1,7 @@
 /**
  * @authors: LOPES Marco, ISELI Cyril
- * Purpose: show informations of filesystem image
- * Language:  C
- * Date : December 2017
+ * Langage:  C
+ * Date : Décembre 2017 - Janvier 2018
  */
 #include <iostream>
 #include <cmath>
